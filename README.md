@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annetjohn
-- 👀 I’m interested in full stack development.
+- 👀 I’m interested in DevOps and Cloud Engineering.
 - 🌱 I’m currently learning Python programming. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new real-world DevOps skills.
 - 📫 How to reach me via email: annetjohn.john@gmail.com
 
 <!---
